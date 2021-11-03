@@ -1,16 +1,14 @@
-### Hi there 👋
+# Everton Goulart
 
-<!--
-**evertonjulian/evertonjulian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá pessoal 👋
+Sou apaixonado por resolver problemas utilizando a programação.
+Sou um FullStack Developer :computer:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Estou trabalhando na **Mout'S**
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos usando C#
+ <br/> :blush: &nbsp; Posso te ajudar com lógica de programação
+ <br/> :computer: &nbsp; Minha stack: Experiências em C#, Java, Delphi; Estudando ReactJS, Node.js
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, livros, seriados e games
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everton-julian-silva-goulart-b59807a2/)](https://www.linkedin.com/in/everton-julian-silva-goulart-b59807a2/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evertonjulian@gmail.com)](mailto:evertonjulian@gmail.com)
