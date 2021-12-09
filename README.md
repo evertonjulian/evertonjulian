@@ -4,7 +4,7 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
 
- Estou trabalhando na **Mout'S**
+ Em busca de novos projetos
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos usando C#
  <br/> :blush: &nbsp; Posso te ajudar com lógica de programação
  <br/> :computer: &nbsp; Minha stack: Experiências em C#, Java, Delphi; Estudando ReactJS, Node.js
